@@ -2,7 +2,7 @@
 
 - My name is Matteo Dall'Olmo, I'm a junior at Washington University in St. Louis studying Computer Science and Italian
 - I'm interested in app and web development and computer security
-- Check out my [website](matteodallolmo.github.io "Visit Matteo's website")
+- Check out my [website](www.matteodallolmo.github.io "Visit Matteo's website") (matteodallolmo.github.io)
 - Feel free to reach me at d.matteo@wustl.edu
 
 <!--
