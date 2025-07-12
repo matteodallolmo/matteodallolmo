@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- My name is Matteo Dall'Olmo, I'm a junior at Washington University in St. Louis studying Computer Science and Italian
+- My name is Matteo Dall'Olmo, I'm a senior at Washington University in St. Louis studying Computer Science and Italian
 - I'm interested in app and web development and computer security
 - Check out my website at matteodallolmo.github.io
-- Feel free to reach me at d.matteo@wustl.edu
+- Feel free to reach me at matteo.dallolmo1@gmail.com
 
 <!--
 **matteodallolmo/matteodallolmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
